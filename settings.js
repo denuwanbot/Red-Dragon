@@ -29,11 +29,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['94776727209'] // owner number
+global.ownername = "😎DENUWAN BOT❯❯" // owner name
 global.ytname = "https://www.youtube.com/channel/UCP25W-WEcWBGWXuEZFh3SWA" // yt chanel name
 global.socialm = "https://www.instagram.com/denuwantech/" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.location = "srilanka,mathugama,mahakalupahana" // location
 
 //bot body 
 global.alivepic = `https://ibb.co/mJf6v29` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
